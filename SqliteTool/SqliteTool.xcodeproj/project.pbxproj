@@ -18,6 +18,7 @@
 		005866CE1A10CA4000A79124 /* PersistenceManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 005866CA1A10CA4000A79124 /* PersistenceManager.m */; };
 		005866CF1A10CA4000A79124 /* PersistenceObject.m in Sources */ = {isa = PBXBuildFile; fileRef = 005866CC1A10CA4000A79124 /* PersistenceObject.m */; };
 		005866D11A10CA4D00A79124 /* libsqlite3.0.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 005866D01A10CA4D00A79124 /* libsqlite3.0.dylib */; };
+		00BDE26D1A10FA3E00BB6414 /* DemoModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 00BDE26C1A10FA3E00BB6414 /* DemoModel.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,8 @@
 		005866CB1A10CA4000A79124 /* PersistenceObject.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PersistenceObject.h; sourceTree = "<group>"; };
 		005866CC1A10CA4000A79124 /* PersistenceObject.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PersistenceObject.m; sourceTree = "<group>"; };
 		005866D01A10CA4D00A79124 /* libsqlite3.0.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libsqlite3.0.dylib; path = usr/lib/libsqlite3.0.dylib; sourceTree = SDKROOT; };
+		00BDE26B1A10FA3E00BB6414 /* DemoModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DemoModel.h; sourceTree = "<group>"; };
+		00BDE26C1A10FA3E00BB6414 /* DemoModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DemoModel.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +102,8 @@
 				005866A51A10CA3500A79124 /* AppDelegate.m */,
 				005866A71A10CA3500A79124 /* ViewController.h */,
 				005866A81A10CA3500A79124 /* ViewController.m */,
+				00BDE26B1A10FA3E00BB6414 /* DemoModel.h */,
+				00BDE26C1A10FA3E00BB6414 /* DemoModel.m */,
 				005866AA1A10CA3500A79124 /* Main.storyboard */,
 				005866AD1A10CA3500A79124 /* Images.xcassets */,
 				005866AF1A10CA3500A79124 /* LaunchScreen.xib */,
@@ -247,6 +252,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				005866CE1A10CA4000A79124 /* PersistenceManager.m in Sources */,
+				00BDE26D1A10FA3E00BB6414 /* DemoModel.m in Sources */,
 				005866A91A10CA3500A79124 /* ViewController.m in Sources */,
 				005866CF1A10CA4000A79124 /* PersistenceObject.m in Sources */,
 				005866A61A10CA3500A79124 /* AppDelegate.m in Sources */,
@@ -442,6 +448,7 @@
 				005866C21A10CA3600A79124 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		005866C31A10CA3600A79124 /* Build configuration list for PBXNativeTarget "SqliteToolTests" */ = {
 			isa = XCConfigurationList;
@@ -450,6 +457,7 @@
 				005866C51A10CA3600A79124 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
