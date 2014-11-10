@@ -1,10 +1,4 @@
-//
-//  PersistenceHelper.h
-//  PersistenceLite
-//
-//  Created by Cheng Nick on 12-1-16.
-//  Copyright (c) 2012年 mRocker Ltd. All rights reserved.
-//
+ 
 
 #import <Foundation/Foundation.h>
 #import <sqlite3.h>

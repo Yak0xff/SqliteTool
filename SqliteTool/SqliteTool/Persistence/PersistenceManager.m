@@ -1,10 +1,4 @@
-//
-//  PersistenceManager.m
-//  PersistenceLite
-//
-//  Created by Cheng Nick on 12-1-21.
-//  Copyright (c) 2012年 mRocker Ltd. All rights reserved.
-//
+ 
 
 #import "PersistenceManager.h"
 #import "PersistenceObject.h"

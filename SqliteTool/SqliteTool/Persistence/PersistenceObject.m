@@ -1,10 +1,4 @@
-//
-//  PersistenceObject.m
-//  PersistenceLite
-//
-//  Created by Cheng Nick on 12-1-21.
-//  Copyright (c) 2012年 mRocker Ltd. All rights reserved.
-//
+ 
 
 #import "PersistenceObject.h" 
 #import "PersistenceManager.h"
@@ -91,7 +85,7 @@
     return _id;
 }
 
-- (NSInteger)delete
+- (NSInteger)deleteObject
 {
     PersistenceManager *manager = [PersistenceManager sharedManager];
      
