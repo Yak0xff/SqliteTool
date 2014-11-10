@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E429A633-393E-4CE6-9B6C-B271E7FA3DFD</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SqliteTool</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>472F907C2B612010C46A9FF69A36C5690F8F19E3</key>
+		<string>https://github.com/RobinChao/SqliteTool.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SqliteTool/SqliteTool.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>472F907C2B612010C46A9FF69A36C5690F8F19E3</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/RobinChao/SqliteTool.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>472F907C2B612010C46A9FF69A36C5690F8F19E3</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>472F907C2B612010C46A9FF69A36C5690F8F19E3</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SqliteTool</string>
+		</dict>
+	</array>
+</dict>
+</plist>
